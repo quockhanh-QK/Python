@@ -1,0 +1,1 @@
+print("Xin chào!\nChào mừng bạn đến với Python.\nChúc bạn học tốt!")
